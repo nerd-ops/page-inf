@@ -32,5 +32,5 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
   <li> <code>python3 main.py</code></li>
  </ul>
  
-# THANKS nwn
+# THANKS
 <img alt="dev gif" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" width=500 />
