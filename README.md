@@ -16,6 +16,7 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
 <ul type="square">
   <li> <code>pkg install python</code> </li>
   <li> <code>pkg install git</code> </li>
+  <li> <code>pkg install nmap</code></li>
   <li> <code>git clone https://github.com/nerd-ops/page-inf</code> </li>
   <li> <code>cd page-inf</code> </li>
   <li> <code>pip3 install -r requirements.txt</code> </li>
@@ -24,6 +25,7 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
 
 ##  Linux
 <ul type="square">
+  <li> <code>sudo apt-get install nmap</code></li>
   <li> <code>sudo apt-get install python3</code> </li>
   <li> <code>sudo apt-get install git</code> </li>
   <li> <code>git clone https://github.com/nerd-ops/page-inf</code> </li>
