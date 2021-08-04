@@ -33,4 +33,4 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
  </ul>
  
 # THANKS nwn
-<img alt="dev gif" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif">
+<img alt="dev gif" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" width=500 />
