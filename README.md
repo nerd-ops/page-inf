@@ -21,3 +21,15 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
   <li> <code>pip install -r requirements.txt</code> </li>
   <li> <code>python3 main.py</code></li>
  </ul>
+
+##  Linux
+<ul type="square">
+  <li> <code>sudo apt-get install python3</code> </li>
+  <li> <code>sudo apt-get install git</code> </li>
+  <li> <code>git clone https://github.com/nerd-ops/page-inf</code> </li>
+  <li> <code>cd page-inf</code> </li>
+  <li> <code>pip3 install -r requirements.txt</code> </li>
+  <li> <code>python3 main.py</code></li>
+ </ul>
+# THANKS nwn
+<p align="center"<img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif">
