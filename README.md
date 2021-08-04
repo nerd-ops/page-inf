@@ -1,4 +1,4 @@
-# page-inf
+# page-inf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ### DESCRIPTION :
 Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
