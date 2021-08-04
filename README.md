@@ -1,4 +1,4 @@
-# page-inf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+# page-inf 
 
 ### DESCRIPTION :
 Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
@@ -32,5 +32,5 @@ Page-inf is a tool for web analysis, basic but in my opinion it can be useful.
   <li> <code>python3 main.py</code></li>
  </ul>
  
-# THANKS
+# THANKS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img alt="dev gif" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" width=500 />
